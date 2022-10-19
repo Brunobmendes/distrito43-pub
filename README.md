@@ -1,11 +1,12 @@
 # Distrito43 - pub
 >
 > ![GitHub Org's stars](https://img.shields.io/github/stars/Brunobmendes/Distrito43-pub?style=social)
+> <br/>
 > ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blueviolet&style=for-the-badge)
 
 ## Oque é a Distrito43
 
-*Onde seus problemas somem, e as lembranças também*
+>*Onde seus problemas somem, e as lembranças também*
 
 Somos um pub, que focamos na diversão de seus clientes e nas amizades feitas aqui, um club para todos os gostos
 
@@ -30,7 +31,6 @@ Reserve sua mesa, faça pedidos de entrega, alem de saber agenda de shows ao viv
   <summary><b>Começando a desenvolver</b></summary>
 
 1. instale o [node.js 16.15.*](https://nodejs.org/pt-br/download/package-manager/)
-<br/>
 
 2. clone o repositório
 
