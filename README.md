@@ -27,7 +27,7 @@ Reserve sua mesa, faça pedidos de entrega, alem de saber agenda de shows ao viv
 ### Como contribuir
 
 <details>
-  <summary><b>Começando</b></summary>
+  <summary><b>Começando a desenvolver</b></summary>
 
 1. instale o [node.js 16.15.*](https://nodejs.org/pt-br/download/package-manager/)
 <br/>
